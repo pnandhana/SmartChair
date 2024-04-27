@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "434772625503",
+    "project_id": "chair-authentication",
+    "storage_bucket": "chair-authentication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434772625503:android:daa880bb8de5a2a81f73ea",
+        "android_client_info": {
+          "package_name": "com.example.demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANArEjukEvQPbajCiAN61JDoHiompAdTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
